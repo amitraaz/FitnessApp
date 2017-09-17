@@ -1,0 +1,5 @@
+F:\Interview Season 4\Projects\FitnessApp\Fitness\Fitness.Client\bin\Fitness.Client.dll
+F:\Interview Season 4\Projects\FitnessApp\Fitness\Fitness.Client\bin\Fitness.Client.pdb
+F:\Interview Season 4\Projects\FitnessApp\Fitness\Fitness.Client\obj\Debug\Fitness.Client.csprojResolveAssemblyReference.cache
+F:\Interview Season 4\Projects\FitnessApp\Fitness\Fitness.Client\obj\Debug\Fitness.Client.dll
+F:\Interview Season 4\Projects\FitnessApp\Fitness\Fitness.Client\obj\Debug\Fitness.Client.pdb
